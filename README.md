@@ -18,7 +18,7 @@ Impactful Projects:
 - [Demic](https://github.com/saiyyamkochar-29/Demic)
 - [EasyCharge](https://devpost.com/software/team-byte-f2gzi5)
 
-
+Contact:
 
 [📱 Design portfolio](saiyyam.design) · [👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Contact](mailto:kocharsaiyyam@gmail.com)
 

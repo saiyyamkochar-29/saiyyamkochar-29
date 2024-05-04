@@ -19,5 +19,6 @@ Impactful Projects:
 - [EasyCharge](https://devpost.com/software/team-byte-f2gzi5)
 
 
+
 [📱 Design portfolio](saiyyam.design) · [👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Contact](mailto:kocharsaiyyam@gmail.com)
 

@@ -15,5 +15,5 @@ Impactful Projects:
 
 Contact:
 
-[👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Contact](mailto:kocharsaiyyam@gmail.com)
+[👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Email](mailto:kocharsaiyyam@gmail.com)
 

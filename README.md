@@ -1,5 +1,5 @@
 ## Hi, I'm Saiyyam 👋
-Currently a UX and quality control engineer [@NorthwesternUniversity](https://isgmh.northwestern.edu/our-research/projects-and-studies/) 🧑‍💻.
+Currently at [@NorthwesternUniversity](https://isgmh.northwestern.edu/our-research/projects-and-studies/) 🧑‍💻.
 
 Impactful Projects:
 - [iDessertful](https://github.com/saiyyamkochar-29/iDessertful)
@@ -14,5 +14,5 @@ Impactful Projects:
 
 Contact:
 
-[📱 Design portfolio](saiyyam.design) · [👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Contact](mailto:kocharsaiyyam@gmail.com)
+[👔 LinkedIn](https://www.linkedin.com/in/saiyyamkochar/) · [📨 Contact](mailto:kocharsaiyyam@gmail.com)
 

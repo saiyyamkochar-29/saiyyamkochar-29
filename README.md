@@ -1,5 +1,5 @@
 ## Hi, I'm Saiyyam 👋
-Currently at [@NorthwesternUniversity](https://isgmh.northwestern.edu/our-research/projects-and-studies/) 🧑‍💻.
+Passionate about using diverse technologies to develop research-focused solutions across software, data, and user experience. Currently I am contributing towards building a materials research centered software solution for a [quantum computing focused project](https://q-next.org/) under the U.S. Department of Energy 🧑‍💻. 
 
 Impactful Projects:
 - [Woof](https://github.com/saiyyamkochar-29/Woof)
